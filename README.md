@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+See [result] (https://e-tweet-simulator-vue3.netlify.app/).
